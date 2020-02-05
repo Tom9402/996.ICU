@@ -133,6 +133,9 @@
 |广州|[网易游戏](https://game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14)|[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)|
+|广州|[广东世纪晓教育科技有限公司](http://www.xiao100.com/)|2020年2月5日|大小周加班|[拉勾](https://www.zhipin.com/job_detail/0df51b2696eaafa40nZy3tS_FFs~.html?ka=comp_joblist_2)|
+|广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
+|广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
 |成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996 无倒休 | [看准网](https://www.kanzhun.com/pl7169544.html) |
@@ -196,7 +199,6 @@
 |上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
 |北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
 |深圳|深圳市蓝色海洋教育科技有限公司|2019年4月|996|一家2019年4月新成立的公司，明确996招聘 [招聘截图](img/lansehaiyang-boss.jpeg)|
-|广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
 |广西|广西安辰信息产业股份有限公司|2019年4月|大小周|[考勤时间截图，可提供制度文件](https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
 |深圳|[深圳市康拓普信息技术有限公司](https://www.szcomtop.com//)|2019年4月|9127|亲历| 
 |山东|潍柴动力股份有限公司/潍柴集团|2019年5月|无双休|[知乎问答1](http://www.zhihu.com/question/309984979)、 [知乎问答2](http://www.zhihu.com/question/270906947)|
@@ -231,7 +233,6 @@
 |杭州|[浙江大华](https://www.dahuatech.com/index.php/about.html)|2015年10月|浙江杭州办linux运维的技术支持大小周、无加班工资|[看准网](https://www.kanzhun.com/pl6967786.html?ka=review-item-ckqw)|
 |深圳|[利朗达](http://www.rondaful.com/)|2017年10月|996、加班费一天15块|[知乎](https://www.zhihu.com/question/265739414)|
 |兰州|[中电万维](http://www.wanwei.com.cn/)|2018年3月|997|[看准网](https://www.kanzhun.com/pl7109874.html?ka=review-item4)|
-|广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
 |上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
 |南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo1.jpeg)，[ceo强调9962](img/ceo2.jpeg)|
 |成都|成都市极米科技有限公司|2019年6月|大小周、99|[公司群内通知](https://i.loli.net/2019/06/22/5d0dcde28d55045439.png)|
