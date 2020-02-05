@@ -135,7 +135,7 @@
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)|
 |广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
 |广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
-|广州|[广东世纪晓教育科技有限公司](http://www.xiao100.com/)|2020 年 2 月 5 号| 大小周 |[拉勾](https://www.zhipin.com/job_detail/0df51b2696eaafa40nZy3tS_FFs~.html?ka=hot-job-2)|
+|广州|[广东世纪晓教育科技有限公司](http://www.xiao100.com/)|2020 年 2 月 5 号| 大小周 |[BOSS直聘](https://www.zhipin.com/job_detail/0df51b2696eaafa40nZy3tS_FFs~.html?ka=hot-job-2)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
 |成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996 无倒休 | [看准网](https://www.kanzhun.com/pl7169544.html) |
